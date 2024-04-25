@@ -1,11 +1,11 @@
 {
-  "bindings": [
-    {
-      "name": "myTimer",
-      "type": "timerTrigger",
-      "direction": "in",
-      "schedule": "*/30 * * * * *"
-    }
-  ],
-  "disabled": false
-}
+    "bindings": [
+      {
+        "name": "myTimer",
+        "type": "timerTrigger",
+        "direction": "in",
+        "schedule": "*/30 * * * * *"
+      }
+    ],
+    "disabled": false
+  }
